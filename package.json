@@ -1,6 +1,6 @@
 {
   "name": "@umm/recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recorder framework that allows recording anything in unity.",
   "homepage": "https://github.com/umm-projects/recorder",
   "bugs": {
