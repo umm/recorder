@@ -37,6 +37,8 @@
 # ======================= #
 /node_modules/
 /Assets/Modules*
+/package-lock.json
+/yarn.lock
 
 # ============ #
 # OS generated #
@@ -52,7 +54,6 @@ Thumbs.db
 # ======== #
 # Optional #
 # ======== #
-/Assets/Plugins.meta
 /Assets/Plugins/Editor.meta
 
 # ====== #
